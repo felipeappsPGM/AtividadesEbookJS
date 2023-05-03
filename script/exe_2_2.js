@@ -17,9 +17,7 @@ function calcularHoras(){
         exibirConteudo(horas);
 
     }
-    
-    
-    
+       
 }
 
 function exibirConteudo(horas){
